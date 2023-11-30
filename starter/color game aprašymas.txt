@@ -1,0 +1,9 @@
+# Color game aprašymas
+* Bendras dizainas su css ir html pagal examples pavyzdį
+* Prisitaikymas prie mobile
+* Atsitiktinių (random) spalvų užkrovimas naudojant rgb 0-255
+* Spalvų išsaugojimas masyve (push)
+* Išrinkimas vienos spalvos iš masyvo ir atspausdinimas viršuje
+* Suprogramuoti spalvos išnykimą, jeigu nepataiko
+* Suprogramuoti spalvos atspėjimą: paspaudus ant kvadratėlio su išrinkta spalva visi kvadratėliai ir viršutinė mėlyna juosta turėtų gauti pasikeisti į tą išrinktą spalvą
+* Easy mode rėžimo sutvarkymas, kad liktų tik 3 kvadratėliai.
